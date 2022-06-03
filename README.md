@@ -1,5 +1,5 @@
-# 2022-05-30-Pong
-2022-05-30-Pong
+# 2022-05-30-NormalPong
+2022-05-30-NormalPong
 - Github
 	- https://github.com/DNguyen31958/2022-05-30-Pong.git
 - Itch.io
